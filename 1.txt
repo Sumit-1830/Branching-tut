@@ -1,1 +1,2 @@
-This is version 2 of branch master - login system
+This is version 2 of branch master - login system 
+This is new Text 1.

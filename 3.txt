@@ -1,1 +1,2 @@
 This is 3.txt for login system after deleting
+This is new Text 3.

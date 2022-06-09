@@ -1,1 +1,2 @@
 This is file 2.txt of master but now it incudes login system
+This is new Text 2.
